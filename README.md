@@ -7,8 +7,8 @@
 
 `💻` Programming Languages
 
-[![Programming Langs](https://skillicons.dev/icons?i=js,ts,cpp,python&theme=light)](https://skillicons.dev)
+[![Programming Langs](https://skillicons.dev/icons?i=js,ts,cpp,py&theme=light)](https://skillicons.dev)
 
 `📚` Frameworks and Lib's
 
-[![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,jquery,react,htmx&theme=light)](https://skillicons.dev)
+[![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,jquery,react,nodejs,htmx&theme=light)](https://skillicons.dev)
