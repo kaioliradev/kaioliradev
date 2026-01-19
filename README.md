@@ -19,4 +19,4 @@
 
 `🪚` Workspace and Tools
 
-[![Workspace and Tools](https://skillicons.dev/icons?i=arch,vscode,npm,figma&theme=light)](https://skillicons.dev)
+[![Workspace and Tools](https://skillicons.dev/icons?i=linux,arch,vscode,npm,figma&theme=light)](https://skillicons.dev)
