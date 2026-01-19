@@ -5,18 +5,18 @@
 
 ### `🧠` **Technologies and knowledge:**
 
-> `💻` Programming Languages
+`💻` Programming Languages
 
-[![Programming Langs](https://skillicons.dev/icons?i=js,ts,cpp,py,lua&theme=light)](https://skillicons.dev)
+> [![Programming Langs](https://skillicons.dev/icons?i=js,ts,cpp,py,lua&theme=light)](https://skillicons.dev)
 
-> `📚` Frameworks and Lib's
+`📚` Frameworks and Lib's
 
-[![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,jquery,svelte,react,nodejs,htmx&theme=light)](https://skillicons.dev)
+> [![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,jquery,svelte,react,nodejs,htmx&theme=light)](https://skillicons.dev)
 
-> `💾` Database
+`💾` Database
 
-[![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
+> [![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
 
-> `🪚` Workspace and Tools
+`🪚` Workspace and Tools
 
 > [![Workspace and Tools](https://skillicons.dev/icons?i=linux,arch,vscode,npm,figma&theme=light)](https://skillicons.dev)
