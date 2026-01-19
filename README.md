@@ -17,6 +17,6 @@
 
 [![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
 
-`🛠` Workspace and Tools
+`🪚` Workspace and Tools
 
-[![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
+[![Workspace and Tools](https://skillicons.dev/icons?i=arch,vscode,npm,figma&theme=light)](https://skillicons.dev)
