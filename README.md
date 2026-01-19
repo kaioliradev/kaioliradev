@@ -12,3 +12,7 @@
 `📚` Frameworks and Lib's
 
 [![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,jquery,svelte,react,nodejs,htmx&theme=light)](https://skillicons.dev)
+
+`💾` Database
+
+[![DBS](https://skillicons.dev/icons?i=MYSQL&theme=light)](https://skillicons.dev)
