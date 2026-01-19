@@ -7,4 +7,4 @@
 
 `💻` Programming Languages
 
-[![Programming Langs](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Programming Langs](https://skillicons.dev/icons?i=js,ts,cpp,python)](https://skillicons.dev)
