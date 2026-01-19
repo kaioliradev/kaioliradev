@@ -11,4 +11,4 @@
 
 `📚` Frameworks and Lib's
 
-[![Frameworks and Lib's](https://skillicons.dev/icons?i=ts&theme=light)](https://skillicons.dev)
+[![Frameworks and Lib's](https://skillicons.dev/icons?i=styledcomponents,tailwind,react&theme=light)](https://skillicons.dev)
