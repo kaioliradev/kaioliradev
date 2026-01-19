@@ -15,4 +15,4 @@
 
 `💾` Database
 
-[![DBS](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
