@@ -16,3 +16,7 @@
 `💾` Database
 
 [![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
+
+`🛠` Workspace and Tools
+
+[![DBS](https://skillicons.dev/icons?i=mysql,sqlite,sequelize&theme=light)](https://skillicons.dev)
