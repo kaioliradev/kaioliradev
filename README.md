@@ -5,4 +5,4 @@
 
 ### `🧠` **Technologies and knowledge:**
 
-Programming Languages
+`💻` Programming Languages
