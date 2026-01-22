@@ -15,4 +15,4 @@
 
 `🪚` Workspace and Tools
 
-> [![Workspace and Tools](https://skillicons.dev/icons?i=linux,arch,vscode,npm,figma)](https://skillicons.dev)
+> [![Workspace and Tools](https://skillicons.dev/icons?i=linux,arch,vscode,figma)](https://skillicons.dev)
